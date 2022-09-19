@@ -1,7 +1,7 @@
 # strapi-provider-upload-local-path
 
 
-[![NPM](https://img.shields.io/npm/v/strapi-provider-upload-cloudinary-large.svg)](https://www.npmjs.com/package/strapi-provider-upload-cloudinary-large) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/strapi-provider-upload-local-absolute-path.svg)](https://www.npmjs.com/package/strapi-provider-upload-local-absolute-path) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
 ## Attention!
