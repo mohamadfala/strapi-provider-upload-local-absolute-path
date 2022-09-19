@@ -1,5 +1,9 @@
 # strapi-provider-upload-local-path
 
+
+[![NPM](https://img.shields.io/npm/v/strapi-provider-upload-cloudinary-large.svg)](https://www.npmjs.com/package/strapi-provider-upload-cloudinary-large) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
 ## Attention!
 
 This package is still under development and it was created for a personal use-case. It is not mature enough to be used without any bugs.
